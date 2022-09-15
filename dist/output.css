@@ -555,11 +555,6 @@ body{
   font-family: 'Courier New', Courier, monospace;
 }
 
-.my-10 {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -582,14 +577,6 @@ body{
 
 .w-full {
   width: 100%;
-}
-
-.w-\[100px\] {
-  width: 100px;
-}
-
-.w-\[25px\] {
-  width: 25px;
 }
 
 .w-\[5px\] {
